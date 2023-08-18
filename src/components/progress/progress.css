@@ -1,0 +1,6 @@
+el-progress {
+    display: block;
+    border: thin solid grey;
+    padding: 12px 24px;
+    color: black;
+}
